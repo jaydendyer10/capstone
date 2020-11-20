@@ -19,6 +19,15 @@ h2 {
   margin-bottom: 20px;
 }
 
+table {
+  text-align: left;
+  width: 800px;
+  height: 75px;
+  margin: 40px auto;
+  border-radius: 5px;
+  background-color: whitesmoke;
+}
+
 div {
   display: inline-block;
   margin-right: 10px;
